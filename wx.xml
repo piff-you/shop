@@ -1,0 +1,78 @@
+接收【2019年03月03日 12:34:13】 
+-------------------------------------------- 
+<xml><ToUserName><![CDATA[gh_fb6808f92f6e]]></ToUserName>
+<FromUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></FromUserName>
+<CreateTime>1551616451</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>22213803926937374</MsgId>
+</xml>
+--------------------------------------------- 
+接收【2019年03月03日 12:44:04】 
+-------------------------------------------- 
+<xml><ToUserName><![CDATA[gh_fb6808f92f6e]]></ToUserName>
+<FromUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></FromUserName>
+<CreateTime>1551617042</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[回宿舍]]></Content>
+<MsgId>22213815430688057</MsgId>
+</xml>
+--------------------------------------------- 
+接收【2019年03月03日 12:46:38】 
+-------------------------------------------- 
+<xml><ToUserName><![CDATA[gh_fb6808f92f6e]]></ToUserName>
+<FromUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></FromUserName>
+<CreateTime>1551617196</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[解决]]></Content>
+<MsgId>22213816867237743</MsgId>
+</xml>
+--------------------------------------------- 
+发送【2019年03月03日 12:46:38】 
+-------------------------------------------- 
+<xml>
+                      <ToUserName><![CDATA[]]></ToUserName>
+                      <FromUserName><![CDATA[]]></FromUserName>
+                      <CreateTime>1551617198</CreateTime>
+                      <MsgType><![CDATA[text]]></MsgType>
+                      <Content><![CDATA[]]></Content>
+                    </xml>
+--------------------------------------------- 
+接收【2019年03月03日 12:48:54】 
+-------------------------------------------- 
+<xml><ToUserName><![CDATA[gh_fb6808f92f6e]]></ToUserName>
+<FromUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></FromUserName>
+<CreateTime>1551617332</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[解决]]></Content>
+<MsgId>22213818509210646</MsgId>
+</xml>
+--------------------------------------------- 
+发送【2019年03月03日 12:48:54】 
+-------------------------------------------- 
+<xml>
+                      <ToUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></ToUserName>
+                      <FromUserName><![CDATA[gh_fb6808f92f6e]]></FromUserName>
+                      <CreateTime>1551617334</CreateTime>
+                      <MsgType><![CDATA[text]]></MsgType>
+                      <Content><![CDATA[解决]]></Content>
+                    </xml>
+--------------------------------------------- 
+接收【2019年03月05日 00:37:37】 
+-------------------------------------------- 
+
+--------------------------------------------- 
+接收【2019年03月05日 00:37:40】 
+-------------------------------------------- 
+
+--------------------------------------------- 
+接收【2019年03月05日 00:45:38】 
+-------------------------------------------- 
+<xml><ToUserName><![CDATA[gh_fb6808f92f6e]]></ToUserName>
+<FromUserName><![CDATA[ozAsI1nETDfxiC3pr8Fr5WyCdzsg]]></FromUserName>
+<CreateTime>1551746738</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+--------------------------------------------- 
